@@ -1,4 +1,4 @@
-@-moz-document regexp('https://new\.vk\\.com/(?!dev/|dev|stats|editapp$).*') {
+@-moz-document regexp('https://vk\\.com/(?!dev/|dev|stats|editapp$).*') {
 
 
     /*=================================================*/
