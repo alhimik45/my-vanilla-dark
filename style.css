@@ -588,4 +588,8 @@
     #feed_rmenu, #feed_filters {
         display: none !important;
     }
+
+    .pv_narrow_column_wrap {
+        background: rgba(0,0,0,0.5);
+    }
 }
