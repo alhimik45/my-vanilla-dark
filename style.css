@@ -592,4 +592,8 @@
     .pv_narrow_column_wrap {
         background: rgba(0,0,0,0.5);
     }
+
+    #wk_content {
+        background: rgba(0,0,0,0.8);
+    }
 }
