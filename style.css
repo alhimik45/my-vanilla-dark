@@ -45,11 +45,11 @@
 
 
     ::selection {
-        background-color:var(--color2);
+        background-color:var(--color8);
         color:#ccc;
     }
     ::-moz-selection {
-        background-color:var(--color2);
+        background-color:var(--color8);
         color:#ddd !important;
     }
 
