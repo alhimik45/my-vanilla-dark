@@ -19,10 +19,6 @@
     /*[[leave_redesign]]*/
     /*circle_pic*/
 
-    .module_body .people_cell_img, .chat_tab_img, .post_img, .page_list_module .cell_img, .page_list_module .thumb, .ow_ava.ow_ava_small, .nim-peer .nim-peer--photo-w, .group_row_photo, .group_row_img, .right_list_img, .search_item_img, .group_box_image_wrap, .group_box_image_link, .fans_fan_img, .friends_phonebook .friends_photo_img, .friends_common_img, img.fc_contact_photo, .ow_ava.ow_ava_mid, .wall_module .reply_img, .wk_poll_usr, .wall_module .copy_post_img, .ts_contact_img, .fans_idolph_wrap, .bp_img, .blst_img, .friends_photo_img, .post_field_user_image, .nim-peer .nim-peer--photo .im_grid>img, .nim-peer .nim-peer--photo>img, .nim-dialog.nim-dialog_classic .nim-dialog--photo .nim-peer .nim-peer--photo .im_grid>img, .nim-dialog.nim-dialog_classic .nim-dialog--photo .nim-peer .nim-peer--photo>img {
-        border-radius:2%;
-    }
-
     *::-webkit-scrollbar {
         width: 15px !important;
         height: 10px !important;
@@ -603,5 +599,9 @@
 
     #wk_content {
         background: rgba(0,0,0,0.8);
+    }
+
+    * [class*="_img"], img, .thumb, .nim-peer--photo-w, .ow_ava, .ow_ava_small {
+        border-radius: 0px !important;
     }
 }
