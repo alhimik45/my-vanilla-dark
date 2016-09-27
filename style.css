@@ -558,6 +558,13 @@
         border:none;
     }
 
+    /* FROM NEW VANILLA DARK */
+
+    .im_stickers_close:after, .checkbox:before, .settings_menu_rows .olist_item_menu .olist_item_photo, .ui_actions_menu_icons, .wall_post_source_icon, .no_posts_cover, .radiobtn:before, .im-chat-placeholder, .olist_checkbox , .gifts_scroll_left, .gifts_scroll_right, .ui_tabs_loading .ui_tabs_progress, .ui_search_custom.ui_search_loading .ui_search_reset, .ui_search_custom.ui_search_loading .ui_search_reset, .ui_search_loading .ui_search_reset, .box_loading .box_x_button, .flist_item_action, .radiobtn_container table td .radiobtn_off_over div, .radiobtn_container table td .radiobtn_off div, .radiobtn_container table td .radiobtn_on_over div, .radiobtn_container table td .radiobtn_on div, img.close_button, .post-2016-layout .module .header_top .handle.togglable, .filter input[type="checkbox"], .pv_cont .pv_closed_commments_placeholder, .pv_cont .pv_no_commments_placeholder, .fc_msg_att_icon_mail, .checkbox_container table td .checkbox_off, .checkbox_container table td .checkbox_off_over, .checkbox_container table td .checkbox_on, .checkbox_container table td .checkbox_on_over, .sort_rev_icon, .replies_side, .module .header_top .handle.togglable, .photos_album_reverse_btn .photos_album_reverse_icon, .wk_hider_box .wk_hider_header, .wk_hider_box_opened .wk_hider_header, .wk_hider_opened .wk_hider_header, .im-to-end .im-to-end--label  {
+        -webkit-filter:invert(0.8) !important;
+        filter:invert(0.8) !important;
+    }
+
 
     /* MY */
 
@@ -577,7 +584,7 @@
         width: 140% !important;
     }
 
-    .im_msg_audiomsg .audio-msg-track:hover, #pv_box, .pv_reply_form_wrap, .narrow_column, .im-page--history-new-bar, .feed_row, .post, .profile_info_header_wrap > *, .ui_search, #stl_bg, .ui_tabs_header, #wk_box, .wk_history_tabs, .web_cam_photo, .photos_choose_upload_area, .im-page--history-new-bar > span, .page_media_thumbed_link, .mention_tt_actions, .mv_controls, .feedback_row_answer, .feedback_row_clickable:hover:not(.feedback_row_touched), .im-mess.im-mess_gift, .wall_module .reply, .wall_module .reply_fakebox_wrap, .wall_module .reply_box, .wall_module .reply_form, .im-page.im-page_classic .im-page--chat-body-wrap-inner, .im-page a.im-page--back-button:hover::before, .im-page.im-page_classic .im-page--dcontent, .pv_author_block, * [class*="_header"] {
+    .im_msg_audiomsg .audio-msg-track:hover, #pv_box, .pv_reply_form_wrap, .narrow_column, .im-page--history-new-bar, .feed_row, .post, .profile_info_header_wrap > *, .ui_search, #stl_bg, .ui_tabs_header, #wk_box, .wk_history_tabs, .web_cam_photo, .photos_choose_upload_area, .im-page--history-new-bar > span, .page_media_thumbed_link, .mention_tt_actions, .mv_controls, .feedback_row_answer, .feedback_row_clickable:hover:not(.feedback_row_touched), .im-mess.im-mess_gift, .wall_module .reply, .wall_module .reply_fakebox_wrap, .wall_module .reply_box, .wall_module .reply_form, .im-page.im-page_classic .im-page--chat-body-wrap-inner, .im-page a.im-page--back-button:hover::before, .im-page.im-page_classic .im-page--dcontent, .pv_author_block, * [class*="_header"], .im-to-end, .im-to-end:hover {
         background: none !important;
     }
 
