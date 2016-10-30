@@ -589,11 +589,16 @@
     }
 
     #pv_more_acts_tt {
-        background-color: unset;
+        background-color: unset !important;
+    }
+
+    .im-page--top-date-bar, .nim-dialog--inner-text {
+        background: var(--color3) !important;
+        border: unset !important;
     }
 
     #pv_more_acts_tt {
-        background-color: var(--color4);
+        background-color: var(--color4) !important;
     }
 
     #feed_rmenu, #feed_filters {
@@ -601,11 +606,11 @@
     }
 
     .pv_narrow_column_wrap {
-        background: rgba(0,0,0,0.5);
+        background: rgba(0,0,0,0.5) !important;
     }
 
     #wk_content {
-        background: rgba(0,0,0,0.8);
+        background: rgba(0,0,0,0.8) !important;
     }
 
     * [class*="_img"], img, .thumb, .nim-peer--photo-w, .ow_ava, .ow_ava_small {
