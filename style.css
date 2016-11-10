@@ -568,6 +568,14 @@
 
     /* MY */
 
+    .ui_search_button_search {
+        filter:invert(0.8) !important;
+    }
+
+    .ui_search_new .ui_search_input_inner {
+        border: 1px solid #45484a !important;
+    }
+
     .im-page.im-page_classic .im-page--chat-input {
         background: none !important;
     }
