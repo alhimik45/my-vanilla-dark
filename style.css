@@ -597,7 +597,7 @@
         border: unset !important;
     }
 
-    #pv_more_acts_tt {
+    #pv_more_acts_tt, .summary_tab2 {
         background-color: var(--color4) !important;
     }
 
