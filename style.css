@@ -572,6 +572,8 @@
         filter:invert(0.8) !important;
     }
 
+
+
     .ui_search_new .ui_search_input_inner {
         border: 1px solid #45484a !important;
     }
@@ -598,6 +600,11 @@
 
     #pv_more_acts_tt {
         background-color: unset !important;
+    }
+
+    .scrollbar_inner {
+        background: var(--color3) !important;
+
     }
 
     .im-page--top-date-bar, .nim-dialog--inner-text {
