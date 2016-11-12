@@ -584,6 +584,10 @@
         background: none !important;
     }
 
+    .ui_search_sugg_list {
+        border: 1px solid var(--color3);
+    }
+
     #post_field, .submit_post, .text, .reply_field, .reply_fakebox, .ba_post, .ba_text, .wr_header, .replies_open, .ui_grey_block, .im-chat-input--text, .page_status_input {
         border: 1px dashed #424242 !important;
     }
@@ -604,7 +608,7 @@
         background-color: unset !important;
     }
 
-    .scrollbar_inner, .ui_scroll_bar_inner, .emoji_bg, .emoji_tab:hover {
+    .scrollbar_inner, .ui_scroll_bar_inner, .emoji_bg, .emoji_tab:hover, .ui_search_suggestion_selected {
         background: var(--color3) !important;
     }
 
@@ -613,7 +617,7 @@
         border: unset !important;
     }
 
-    #pv_more_acts_tt, .summary_tab2 {
+    #pv_more_acts_tt, .summary_tab2, .ui_search_sugg_list {
         background-color: var(--color4) !important;
     }
 
@@ -631,5 +635,9 @@
 
     * [class*="_img"], img, .thumb, .nim-peer--photo-w, .ow_ava, .ow_ava_small {
         border-radius: 0px !important;
+    }
+
+    .ui_search_sugg_list {
+        color: white;
     }
 }
