@@ -640,4 +640,8 @@
     .ui_search_sugg_list {
         color: white;
     }
+
+    #feed_blog_reminder {
+        z-index: 999;
+    }
 }
