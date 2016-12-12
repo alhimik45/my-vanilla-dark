@@ -617,7 +617,7 @@
         border: unset !important;
     }
 
-    #pv_more_acts_tt, .summary_tab2, .ui_search_sugg_list {
+    #pv_more_acts_tt, .summary_tab2, .ui_search_sugg_list, .im-audio-message-input {
         background-color: var(--color4) !important;
     }
 
