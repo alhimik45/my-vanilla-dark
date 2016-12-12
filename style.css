@@ -648,4 +648,8 @@
     .im-page--chat-body-wrap-inner._im_peer_history_w {
         border-color: rgba(0,0,0,0) !important;
     }
+
+    .im-audio-message-track {
+        filter: grayscale(1) invert(1);
+    }
 }
