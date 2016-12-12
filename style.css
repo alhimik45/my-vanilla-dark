@@ -511,7 +511,7 @@
         background-color:#747055;
     }
 
-    .page_block, .page_status_editor .editor, .im-page .im-page--dialogs, .faq_search_form, .search_query_wrap .result_list, .im-page.im-page_group .im-page--dcontent, .im-page.im-page_group .im-page--dialogs-search, .im-chat-input.im-chat-input_classic, .im-page.im-page_classic .im-page--header-inner, .im-page.im-page_classic .im-page--chat-body-abs, .im-page.im-page_classic .im-page--dialogs-search, .im-page.im-page_classic .im-page--dcontent, .im-page.im-page_classic .im-page--history_loading {
+    .page_block, .page_status_editor .editor, .im-page .im-page--dialogs, .faq_search_form, .search_query_wrap .result_list, .im-page.im-page_group .im-page--dcontent, .im-page.im-page_group .im-page--dialogs-search, .im-chat-input.im-chat-input_classic, .im-page.im-page_classic .im-page--header-inner, .im-page.im-page_classic .im-page--chat-body-abs, .im-page.im-page_classic .im-page--dialogs-search, .im-page.im-page_classic .im-page--dcontent, .im-page.im-page_classic .im-page--history_loading, .im-audio-message-input.im-chat-input_classic {
         box-shadow: 0 1px 0 0 #282828 , 0 0 0 1px #282828 ;
     }
 
