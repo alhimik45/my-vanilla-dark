@@ -644,4 +644,8 @@
     #feed_blog_reminder {
         z-index: 999;
     }
+
+    .im-page--chat-body-wrap-inner._im_peer_history_w {
+        border-color: rgba(0,0,0,0) !important;
+    }
 }
