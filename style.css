@@ -621,7 +621,7 @@
         background-color: var(--color4) !important;
     }
 
-    #feed_rmenu, #feed_filters {
+    #feed_rmenu, #feed_filters, .audio_layer_bottom {
         display: none !important;
     }
 
