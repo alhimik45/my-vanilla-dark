@@ -84,7 +84,7 @@
         display:none !important;
     }
 
-    .button_gray button.hover, .button_gray button:hover, .flat_button.secondary.hover, .flat_button.secondary:hover, .box_controls .flat_button.secondary:hover, .flat_button.secondary.button_light:hover, #mv_comments_header:hover, .mv_subscribe_block .mv_subscribe_btn_count, .replies_open, .wr_header:hover, .top_notify_show_all:hover, .pv_comments_header:hover, em.ts_clist_hl, em.highlight, .search_focused .highlight, .audio_search_focused .audio_performer>em, .audio_friend.audio_friend_selected, .ui_toggler:after, .summary_tab2:hover {
+    .button_gray button.hover, .flat_button:hover, .button_gray button:hover, .flat_button.secondary.hover, .flat_button.secondary:hover, .box_controls .flat_button.secondary:hover, .flat_button.secondary.button_light:hover, #mv_comments_header:hover, .mv_subscribe_block .mv_subscribe_btn_count, .replies_open, .wr_header:hover, .top_notify_show_all:hover, .pv_comments_header:hover, em.ts_clist_hl, em.highlight, .search_focused .highlight, .audio_search_focused .audio_performer>em, .audio_friend.audio_friend_selected, .ui_toggler:after, .summary_tab2:hover {
         background-color:var(--color7);
     }
 
@@ -108,7 +108,7 @@
         background-color:var(--color1);
     }
 
-    .button_blue button, .button_gray button, .button_light_gray button, .audio_inline_player .slider .slider_back, .audio_page_player .slider .slider_back, .scrollbar_inner, .top_audio_player.audio_top_btn_active, .im-to-end:hover, .im-mess.im-mess_unread.im-mess_sending .im-mess--marker, a:hover .left_count_wrap, .button_blue button.hover, .button_blue button:hover, .flat_button.hover, .flat_button:hover, .ui_toggler.on, .selector_container td.selector .token_hover, .pv_narrow_column_wrap, .audio_progress_wrap, .emoji_sticker_item:hover, .video_item_title em, .wdd_hl, .page_media_poll .page_poll_percent, .im-dropbox--release, .exchange_subtab1.active, .exchange_subtab1.active:hover, .ads_nav .nav_selected, .ads_nav .nav_selected:hover, .nav_selected:hover, .flat_button.secondary_dark:hover, .ads_edit_link_type_item.selected, .ads_edit_link_type_item.selected.disabled, .ads_edit_link_type_item.selected.disabled:hover, .ui_tabs.ui_tabs_sliding .ui_tabs_slider, .ui_rmenu_count, .fc_msgs .audio_row:not(.audio_row_current):hover, .fc_msgs_out .fc_msgs, .fc_msgs .audio_row.audio_row_playing:hover, .fc_msgs .audio_row.audio_row_current:hover {
+    .button_blue button, .button_gray button, .button_light_gray button, .audio_inline_player .slider .slider_back, .audio_page_player .slider .slider_back, .scrollbar_inner, .top_audio_player.audio_top_btn_active, .im-to-end:hover, .im-mess.im-mess_unread.im-mess_sending .im-mess--marker, a:hover .left_count_wrap, .button_blue button.hover, .button_blue button:hover, .flat_button.hover, .ui_toggler.on, .selector_container td.selector .token_hover, .pv_narrow_column_wrap, .audio_progress_wrap, .emoji_sticker_item:hover, .video_item_title em, .wdd_hl, .page_media_poll .page_poll_percent, .im-dropbox--release, .exchange_subtab1.active, .exchange_subtab1.active:hover, .ads_nav .nav_selected, .ads_nav .nav_selected:hover, .nav_selected:hover, .flat_button.secondary_dark:hover, .ads_edit_link_type_item.selected, .ads_edit_link_type_item.selected.disabled, .ads_edit_link_type_item.selected.disabled:hover, .ui_tabs.ui_tabs_sliding .ui_tabs_slider, .ui_rmenu_count, .fc_msgs .audio_row:not(.audio_row_current):hover, .fc_msgs_out .fc_msgs, .fc_msgs .audio_row.audio_row_playing:hover, .fc_msgs .audio_row.audio_row_current:hover {
         background-color:var(--color2);
     }
 
@@ -462,7 +462,7 @@
         color: #5B5B5B !important;
     }
 
-    .flat_button.ui_load_more_btn:hover, .button_blue button.hover, .button_blue button:hover, .flat_button.hover, .flat_button:hover, .tabbed_box .summary_tab_sel .summary_tab3, .exchange_subtab1.active {
+    .flat_button.ui_load_more_btn:hover, .button_blue button.hover, .button_blue button:hover, .flat_button.hover, .tabbed_box .summary_tab_sel .summary_tab3, .exchange_subtab1.active {
         color:#111;
     }
 
