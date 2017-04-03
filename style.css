@@ -637,7 +637,7 @@
         background: rgba(0,0,0,0.8) !important;
     }
 
-    * [class*="_img"], img, .thumb, .nim-peer--photo-w, .ow_ava, .ow_ava_small {
+    * [class*="_img"], img, .thumb, .nim-peer--photo-w, .ow_ava, .ow_ava_small, .fans_idolph_wrap {
         border-radius: 0px !important;
     }
 
