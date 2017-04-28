@@ -604,7 +604,7 @@
         background: none !important;
     }
 
-    #pv_more_acts_tt {
+    #pv_more_acts_tt, .audio_row_inner {
         background-color: unset !important;
     }
 
