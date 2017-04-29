@@ -568,7 +568,7 @@
 
     /* MY */
 
-    .ui_search_button_search {
+    .ui_search_button_search, .audio_row_cover_wrap {
         filter:invert(0.8) !important;
     }
 
