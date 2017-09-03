@@ -664,4 +664,8 @@
     .im-page_classic .im-page--chat-header-in {
         box-shadow: unset !important;
     }
+
+    .im-mess.im-mess_unread:not(.im-mess_light) {
+        background: var(--color3) !important;
+    }
 }
