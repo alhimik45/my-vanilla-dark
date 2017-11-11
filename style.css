@@ -617,7 +617,7 @@
         border: unset !important;
     }
 
-    .im-page--chat-header-in {
+    .im-page--chat-header-in, .im-page-pinned, .im-page--toolsw {
         border-bottom-color:var(--color3);  
     }
 
@@ -635,6 +635,9 @@
 
     #wk_content {
         background: rgba(0,0,0,0.8) !important;
+    }
+    .im-page-pinned {
+        background: var(--color4) !important;
     }
 
     * [class*="_img"], img, .thumb, .nim-peer--photo-w, .ow_ava, .ow_ava_small, .fans_idolph_wrap {
