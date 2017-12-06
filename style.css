@@ -41,11 +41,11 @@
 
 
     ::selection {
-        background-color:var(--color8);
+        background-color:var(--color3);
         color:#ccc;
     }
     ::-moz-selection {
-        background-color:var(--color8);
+        background-color:var(--color3);
         color:#ddd !important;
     }
 
