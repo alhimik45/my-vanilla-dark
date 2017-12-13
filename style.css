@@ -12,7 +12,7 @@
     /*  #908B67 | #5B8E90 | #4B8B60 | #B35843 */
 
     .side_bar_inner {
-        position: fixed !important;
+        /*position: fixed !important;*/
         margin-top: 42px !important;
     }
     /*no_input_minimize*/
