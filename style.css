@@ -636,7 +636,7 @@
     #wk_content {
         background: rgba(0,0,0,0.8) !important;
     }
-    .im-page-pinned, .reply_field.submit_post_field {
+    .im-page-pinned, .reply_field.submit_post_field, .reply_fakebox {
         background: var(--color4) !important;
     }
 
