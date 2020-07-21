@@ -1161,6 +1161,6 @@ img.sticker_img.im_gift, img.im_gift, .emoji_sticker_image, .sticker_img  {
     position: fixed!important;
 }
 
-.im-right-menu .im-right-menu--count {
+.im-right-menu .im-right-menu--count, .feed_new_posts > b {
   color: #fff;
 }
