@@ -1172,3 +1172,7 @@ img.sticker_img.im_gift, img.im_gift, .emoji_sticker_image, .sticker_img  {
 .TopSearch__input {
   background: rgba(255,255,255, 0.9) !important;
 }
+
+[dir] .im-mess.im-mess_gift, [dir] .im-mess.im-mess_gift.im-mess_selected, [dir] .im-mess.im-mess_gift.im-mess_selected:hover { 
+  background: unset !important;
+}
