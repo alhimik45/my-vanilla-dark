@@ -1303,3 +1303,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 [dir="ltr"] .wide_column_left .wide_column_wrap {
     margin-right: unset;
 }
+
+.page_block, .im-page.im-page_classic .im-page--chat-body-wrap-inner {
+    background: unset !important;
+}
+
