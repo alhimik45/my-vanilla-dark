@@ -1291,3 +1291,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .ui_rmenu_item_sel, .ui_rmenu_item {
     color: #fff !important;
 }
+
+[dir] .im-mess.im-mess_gift, [dir] .im-mess.im-mess_gift.im-mess_selected, [dir] .im-mess.im-mess_gift.im-mess_selected:hover {
+  background: unset !important;
+}
