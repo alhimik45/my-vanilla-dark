@@ -596,7 +596,7 @@ img[src="/images/camera_100.png"], img[src="/images/camera_100.png?ava=1"], img[
    /* Черно-белый */
 
 :root {
-  --color1: #bbb;
+  --color1: #fff;
   --color2: #818181;
   --color3: #282828;
   --color4: #222222;
@@ -610,7 +610,7 @@ img[src="/images/camera_100.png"], img[src="/images/camera_100.png?ava=1"], img[
   --filt2:saturate(0) !important;
   --filt22:saturate(0) !important;
   --dots: url('https://i.imgur.com/GJNFVlx.png');
-  --brigther_font_color: #c1c1c1;
+  --brigther_font_color: #fff;
 }
 
 /*=========================filter==============================*/
@@ -1286,4 +1286,8 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 .qweqwe {
   filter: saturate(0)brightness(1.2)
+}
+
+.ui_rmenu_item_sel, .ui_rmenu_item {
+    color: #fff !important;
 }
