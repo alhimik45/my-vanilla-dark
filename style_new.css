@@ -1313,5 +1313,5 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 
 [dir] .nim-peer .nim-peer--photo-w, img {
-    border-radius: 10% !important;
+    border-radius: 0% !important;
 }
