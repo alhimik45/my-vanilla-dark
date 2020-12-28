@@ -1296,7 +1296,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
   background: unset !important;
 }
 
-.narrow_column_wrap {
+div#page_layout div#page_body.fl_r div#wrap3 div#wrap2 div#wrap1 div#content div.wide_column_left div.narrow_column_wrap {
     display: none;
 }
 
